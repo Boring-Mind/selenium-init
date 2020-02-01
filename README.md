@@ -12,6 +12,7 @@ sudo apt-get python3-pip
 sudo apt-get python3-venv
 
 python3 -m venv seleniumtest
+cd seleniumtest
 . bin/activate
 
 pip install selenium
