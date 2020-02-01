@@ -1,5 +1,5 @@
 # selenium-init
-### Basic setup of Selenium for headless Chrome
+Basic setup of Selenium for headless Chrome
 
 #### Step 1. Install Chrome WebDriver
 
