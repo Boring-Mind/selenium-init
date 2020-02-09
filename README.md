@@ -8,8 +8,8 @@ https://christopher.su/2015/selenium-chromedriver-ubuntu/
 
 #### Step 2. Setup python environment:
 ```
-sudo apt-get python3-pip
-sudo apt-get python3-venv
+sudo apt-get install python3-pip -y
+sudo apt-get install python3-venv -y
 
 python3 -m venv seleniumtest
 cd seleniumtest
